@@ -1,9 +1,9 @@
 pragma solidity 0.6.12;
 
-import '@pancakeswap/pancake-swap-lib/contracts/math/SafeMath.sol';
-import '@pancakeswap/pancake-swap-lib/contracts/token/BEP20/IBEP20.sol';
-import '@pancakeswap/pancake-swap-lib/contracts/token/BEP20/SafeBEP20.sol';
-import '@pancakeswap/pancake-swap-lib/contracts/access/Ownable.sol';
+import '@zoeswap/zoeswap-lib/contracts/math/SafeMath.sol';
+import '@zoeswap/zoeswap-lib/contracts/token/BEP20/IBEP20.sol';
+import '@zoeswap/zoeswap-lib/contracts/token/BEP20/SafeBEP20.sol';
+import '@zoeswap/zoeswap-lib/contracts/access/Ownable.sol';
 
 // import "@nomiclabs/buidler/console.sol";
 

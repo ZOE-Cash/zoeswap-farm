@@ -595,9 +595,9 @@
     web3 "^1.2.5"
     web3-utils "^1.2.5"
 
-"@pancakeswap/pancake-swap-lib@^0.0.1":
+"@zoeswap/zoeswap-lib@^0.0.1":
   version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@pancakeswap/pancake-swap-lib/-/pancake-swap-lib-0.0.1.tgz#8ed3bb89f7282e63e6dd1937914df6d6110cf76f"
+  resolved "https://registry.yarnpkg.com/@zoeswap/zoeswap-lib/-/pancake-swap-lib-0.0.1.tgz#8ed3bb89f7282e63e6dd1937914df6d6110cf76f"
   integrity sha512-zSx5nvDM9HN9aziZXXoZIqmj3wKLkP9HHZZpr+1bxjmZrSfYecORrnl7YKy1nqLU4FW7F9wqMltmp1dFNIeseg==
 
 "@resolver-engine/core@^0.2.1":
